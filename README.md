@@ -1,6 +1,6 @@
 # apps
 
-GitHub Pages site for **wild studio** app support, privacy policies, and terms of use.
+GitHub Pages site for **trelob studio** app support, privacy policies, and terms of use.
 
 Live site: https://sanchui0814.github.io/apps/
 
